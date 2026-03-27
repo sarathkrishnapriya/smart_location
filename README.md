@@ -1,4 +1,5 @@
-# smart_location
+# Smart Location
+
 A developer-friendly, DX-first Flutter package for handling location. It internally wraps `geolocator` with a clean, top-down designed API that minimizes boilerplate and intuitively manages permissions.
 
 ## Features
