@@ -1,7 +1,7 @@
 name: smart_location
 description: "Smart Location is a Flutter package that provides an all-in-one solution for location handling, including real-time updates, last known location, geofencing, distance & bearing calculations, background tracking, route recording, and activity detection. Designed with Antigravity principles, it simplifies location-based development with a developer-friendly API that works out-of-the-box for both beginner and advanced Flutter developers."
 version: 0.0.1
-homepage: https://exploretopics.world
+homepage: https://github.com/sarathkrishnapriya/smart_location
 
 environment:
   sdk: ^3.9.2
